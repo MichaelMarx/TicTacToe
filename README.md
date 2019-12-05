@@ -4,9 +4,13 @@
 To be able to compile and run this game you are required to have a valid Java version installed. This program has been developed and tested using Java version 12.0.2.
 
 ## Compiling
-To compile the program run
+To compile the program run inside of the "src" folder
 
     javac Game.java Main.java UI.java Player.java PlayerX.java PlayerO.java
+
+After that run the following command inside of the "src" folder to launch the game
+
+    java Main
 
 ## Controls
 The game follows the turn based approach of Tic Tac Toe with Player 1 (symbol X) having the first turn. Player 2 (symbol O) turn starts when Player 1 selected his field of choice by clicking with the left mouse button on the according button representing a field.
