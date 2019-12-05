@@ -13,6 +13,8 @@ The game follows the turn based approach of Tic Tac Toe with Player 1 (symbol X)
 
 ## How to Play
 The players take turns to place their symbol in a chosen field inside the TicTacToe grid. One player after the other places their symbol with the goal of placing three of same symbol in a row. This can be done either vertically, horizontally, or diagonally. 
+
 ![Image - What is TicTacToe?](http://mathworld.wolfram.com/images/eps-gif/Tic-Tac-Toe_600.gif)
-The image shows one of the three ways to win. 
+
+The image shows one of the three ways to win.
 If no player is able to connect three of their own symbols, the game will end in a draw.
